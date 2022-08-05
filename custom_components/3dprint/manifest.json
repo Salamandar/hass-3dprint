@@ -1,0 +1,11 @@
+{
+  "domain": "3dprint",
+  "name": "3D Printers",
+  "documentation": "https://github.com/salamandar/hass-3dprint",
+  "issue_tracker": "https://github.com/salamandar/hass-3dprint/issues",
+  "dependencies": [],
+  "codeowners": ["@salamandar"],
+  "requirements": [],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}

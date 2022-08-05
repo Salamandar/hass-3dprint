@@ -27,8 +27,6 @@
 [coverage]: https://app.codecov.io/gh/salamandar/hass-3dprint/
 [coverage-shield]: https://img.shields.io/codecov/c/gh/salamandar/hass-3dprint?style=for-the-badge
 
-
-
 # Hass-3dprint
 
 _Component to integrate with 3D Printers._
