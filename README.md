@@ -13,7 +13,7 @@
 [maintenance-shield]: https://img.shields.io/badge/maintainer-Salamandar-blue.svg?style=for-the-badge
 
 [releases]: https://github.com/salamandar/hass-3dprint/releases
-[releases-shield]: https://img.shields.io/github/release/salamandar/hass-3dprint.svg?style=flat-square
+[releases-shield]: https://img.shields.io/github/release/salamandar/hass-3dprint.svg?style=for-the-badge
 
 [commits]: https://github.com/salamandar/hass-3dprint/commits/master
 [commits-shield]: https://img.shields.io/github/commit-activity/y/salamandar/hass-3dprint.svg?style=for-the-badge
@@ -22,10 +22,10 @@
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
 
 [build]: https://github.com/salamandar/hass-3dprint/actions/workflows/build.yaml
-[build-shield]: https://img.shields.io/github/workflow/status/salamandar/hass-3dprint/Build?style=flat-square
+[build-shield]: https://img.shields.io/github/workflow/status/salamandar/hass-3dprint/Build?style=for-the-badge
 
 [coverage]: https://app.codecov.io/gh/salamandar/hass-3dprint/
-[coverage-shield]: https://img.shields.io/codecov/c/gh/salamandar/hass-3dprint?style=flat-square
+[coverage-shield]: https://img.shields.io/codecov/c/gh/salamandar/hass-3dprint?style=for-the-badge
 
 
 
