@@ -1,5 +1,5 @@
 {
-  "domain": "3dprint",
+  "domain": "3dprinters",
   "name": "3D Printers",
   "version": "0.0",
   "documentation": "https://github.com/salamandar/hass-3dprint",

@@ -9,25 +9,25 @@
 
 
 [hacs-badge]: https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/salamandar/hass-3dprint.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/salamandar/hass-3dprinters.svg?style=for-the-badge
 [maintenance-shield]: https://img.shields.io/badge/maintainer-Salamandar-blue.svg?style=for-the-badge
 
-[releases]: https://github.com/salamandar/hass-3dprint/releases
-[releases-shield]: https://img.shields.io/github/release/salamandar/hass-3dprint.svg?style=for-the-badge
+[releases]: https://github.com/salamandar/hass-3dprinters/releases
+[releases-shield]: https://img.shields.io/github/release/salamandar/hass-3dprinters.svg?style=for-the-badge
 
-[commits]: https://github.com/salamandar/hass-3dprint/commits/master
-[commits-shield]: https://img.shields.io/github/commit-activity/y/salamandar/hass-3dprint.svg?style=for-the-badge
+[commits]: https://github.com/salamandar/hass-3dprinters/commits/master
+[commits-shield]: https://img.shields.io/github/commit-activity/y/salamandar/hass-3dprinters.svg?style=for-the-badge
 
 [forum]: https://community.home-assistant.io/
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
 
-[build]: https://github.com/salamandar/hass-3dprint/actions/workflows/build.yaml
-[build-shield]: https://img.shields.io/github/workflow/status/salamandar/hass-3dprint/Build?style=for-the-badge
+[build]: https://github.com/salamandar/hass-3dprinters/actions/workflows/build.yaml
+[build-shield]: https://img.shields.io/github/workflow/status/salamandar/hass-3dprinters/Build?style=for-the-badge
 
-[coverage]: https://app.codecov.io/gh/salamandar/hass-3dprint/
-[coverage-shield]: https://img.shields.io/codecov/c/gh/salamandar/hass-3dprint?style=for-the-badge
+[coverage]: https://app.codecov.io/gh/salamandar/hass-3dprinters/
+[coverage-shield]: https://img.shields.io/codecov/c/gh/salamandar/hass-3dprinters?style=for-the-badge
 
-# Hass-3dprint
+# Hass-3dprinters
 
 _Component to integrate with 3D Printers._
 
@@ -53,13 +53,13 @@ Platform | Description
 
 Easiest install is via [HACS](https://hacs.xyz/):
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=salamandar&repository=https%3A%2F%2Fgithub.com%2Fsalamandar%2Fhass-3dprint)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=salamandar&repository=https%3A%2F%2Fgithub.com%2Fsalamandar%2Fhass-3dprinters)
 
-`HACS -> Explore & Add Repositories -> hass-3dprint`
+`HACS -> Explore & Add Repositories -> hass-3dprinters`
 
 Notes:
 
 - HACS does not "configure" the integration for you. You must go to `Configuration > Integrations` and add your 3d printer after installing via HACS.
 
-Please visit the [main documentation](https://github.com/salamandar/hass-3dprint)
+Please visit the [main documentation](https://github.com/salamandar/hass-3dprinters)
 for full installation instructions of this integration.
