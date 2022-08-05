@@ -1,7 +1,8 @@
-[![License][license-shield]](LICENSE)
+[![License][license-shield]](LICENSE.md)
 
-[![hacs][hacsbadge]][hacs]
 ![Project Maintenance][maintenance-shield]
+
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
 [![GitHub Release](https://img.shields.io/github/release/salamandar/hass-3dprint.svg?style=flat-square)](https://github.com/salamandar/hass-3dprint/releases)
 [![Build Status](https://img.shields.io/github/workflow/status/salamandar/hass-3dprint/Build?style=flat-square)](https://github.com/salamandar/hass-3dprint/actions/workflows/build.yaml)
